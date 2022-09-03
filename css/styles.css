@@ -345,7 +345,7 @@ img {
   padding-top: 60px;
   padding-bottom: 60px;
 
-  background-color: var(--baner-cl);
+  background-color: var(--futer--bg-cl);
 }
 .box {
   display: flex;
